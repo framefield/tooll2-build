@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<Mesh>
+  <Attributes>
+    <Attribute id="POSITION" list="Positions" type="R32G32B32A32_Float"/>
+    <Attribute id="NORMAL" list="Normals" type="R32G32B32_Float"/>
+    <Attribute id="COLOR" list="Colors" type="R32G32B32A32_Float"/>
+    <Attribute id="TEXCOORD" list="UVCoords" type="R32G32_Float"/>
+    <Attribute id="TANGENT" list="Tangents" type="R32G32B32_Float"/>
+    <Attribute id="BINORMAL" list="Binormals" type="R32G32B32_Float"/>
+  </Attributes>
+  <Vertices>
+    0 0 0 1 0 0,
+1 0 0 2 0 0,
+2 0 0 3 0 0,
+3 0 0 4 0 0,
+3 1 0 4 0 1,
+2 1 0 3 0 1,
+4 1 0 5 0 1,
+5 1 0 6 0 1,
+5 2 0 6 0 2,
+4 2 0 5 0 2,
+6 2 0 7 0 2,
+7 2 0 8 0 2,
+7 3 0 8 0 3,
+6 3 0 7 0 3,
+1 3 0 9 0 3,
+0 3 0 10 0 3,
+1 4 0 2 1 0,
+6 4 0 11 1 0,
+4 4 0 12 1 0,
+2 4 0 3 1 0,
+7 5 0 0 2 0,
+0 5 0 1 2 0,
+3 5 0 4 2 0,
+5 5 0 13 2 0
+  </Vertices>
+  <Positions>
+    -0.5 -0.5 0.5 1.0,
+0.5 -0.5 0.5 1.0,
+0.5 0.5 0.5 1.0,
+-0.5 0.5 0.5 1.0,
+0.5 0.5 -0.5 1.0,
+-0.5 0.5 -0.5 1.0,
+0.5 -0.5 -0.5 1.0,
+-0.5 -0.5 -0.5 1.0
+  </Positions>
+  <Normals>
+    0.0 0.0 1.0,
+0.0 1.0 0.0,
+0.0 0.0 -1.0,
+0.0 -1.0 0.0,
+1.0 0.0 0.0,
+-1.0 0.0 0.0
+  </Normals>
+  <Tangents>
+    1.0 0.0 0.0,
+0.0 0.0 -1.0,
+0.0 0.0 1.0
+  </Tangents>
+  <Binormals>
+    0.0 1.0 0.0,
+0.0 0.0 -1.0,
+0.0 -1.0 0.0,
+0.0 0.0 1.0
+  </Binormals>
+  <Colors>
+    1.0 1.0 1.0 1.0
+  </Colors>
+  <UVCoords>
+    0 0,
+0.33 0.0,
+0.663333 0.0,
+0.663333 0.25,
+0.33 0.25,
+0.663333 0.5,
+0.33 0.5,
+0.663333 0.75,
+0.33 0.75,
+0.663333 1.0,
+0.33 1.0,
+1.0 0.0,
+1.0 0.25,
+0.0 0.25
+  </UVCoords>
+  <Faces>
+    0 1 2 3, 
+4 5 6 7, 
+8 9 10 11, 
+12 13 14 15, 
+16 17 18 19, 
+20 21 22 23
+  </Faces>
+  <Objects>
+    0 1 2 3 4 5
+  </Objects>
+</Mesh>

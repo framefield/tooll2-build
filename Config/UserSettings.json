@@ -1,0 +1,14 @@
+{
+  "View.WorkspaceMatrices": {
+    "c67ef36a-aaa8-46af-81c7-942ae96b0a87": "1.22587560970703,0,0,1.22587560970703,159.22364823713,148.69614163779",
+    "5d5ec81b-f6dd-468a-a070-ab113d2462cc": "1.15822712029175,0,0,1.15822712029175,704.263002561684,3810.74346925291",
+    "fdaf962c-c288-4c7b-bddf-717f8571499c": "1,0,0,1,-2680.88480154922,17.0383928414095"
+  },
+  "Tooll.AutoBackupPeriodInSeconds": 300.0,
+  "Tooll.AutoBackupEnabled": true,
+  "TimeLineFPSStyle": 0.0,
+  "User.Name": "pixtur",
+  "User.Email": "adf",
+  "UI.QuickCreateWindowPositionTop": 200.0,
+  "UI.QuickCreateWindowPositionLeft": 200.0
+}

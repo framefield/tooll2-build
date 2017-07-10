@@ -1,0 +1,55 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Segoe UI
+fontFile=
+charSet=0
+fontSize=512
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=0
+useClearType=0
+
+# character alignment
+paddingDown=10
+paddingUp=10
+paddingRight=20
+paddingLeft=20
+spacingHoriz=2
+spacingVert=2
+useFixedHeight=1
+forceZero=0
+
+# output file
+outWidth=4096
+outHeight=4096
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=0
+redChnl=4
+greenChnl=4
+blueChnl=4
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+chars=32-126,161-191,196,214,220,223,228,246,252,8208-8213,8216-8223,8242-8243,8249-8250,8260
+
+# imported icon images

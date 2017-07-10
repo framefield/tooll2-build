@@ -1,0 +1,19 @@
+{
+  "Tooll.IsHost": "true",
+  "Tooll.OperatorTestReferencePath": "assets-common/test-references/",
+  "Tooll.ProfilingEnabled": "true",
+  "Soundtrack.BPM": "170",
+  "Soundtrack.BPMOffset": "0.0",
+  "Tooll.FullScreen.DisplayNumber": "1",
+  "Tooll.FullScreen.Resolution": "1920x1080",
+  "Tooll.RenderView.Camera.MaxVelocity": 2.0,
+  "Tooll.RenderView.Camera.Acceleration": 1.0,
+  "Tooll.RenderView.Camera.Friction": 0.30000001192092896,
+  "Soundtrack.Path": "assets-common/music/60sec-fast-compo/technoShorts01_125bpm.mp3",
+  "Soundtrack.ImagePath": "assets-common/music/60sec-fast-compo/technoShorts01_125bpm.mp3.waveform.png",
+  "Tooll.SelectionView.Camera.MaxVelocity": 2.0,
+  "Tooll.SelectionView.Camera.Acceleration": 1.0,
+  "Tooll.SelectionView.Camera.Friction": 0.30000001192092896,
+  "Tooll.FullScreen.Resolution.Width": 1920.0,
+  "Tooll.FullScreen.Resolution.Height": 1080.0
+}
