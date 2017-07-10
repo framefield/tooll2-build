@@ -15,5 +15,7 @@
   "Tooll.SelectionView.Camera.Acceleration": 1.0,
   "Tooll.SelectionView.Camera.Friction": 0.30000001192092896,
   "Tooll.FullScreen.Resolution.Width": 1920.0,
-  "Tooll.FullScreen.Resolution.Height": 1080.0
+  "Tooll.FullScreen.Resolution.Height": 1080.0,
+  "Git.OperatorRepositoryURL": "git@github.com:framefield/tooll_private_operators.git",
+  "Git.OperatorRepositoryBranch": "develop"
 }
